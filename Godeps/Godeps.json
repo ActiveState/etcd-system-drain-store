@@ -1,0 +1,33 @@
+{
+	"ImportPath": "github.com/ActiveState/etcd_system_drain_store",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cloudfoundry/gunk/workpool",
+			"Rev": "3903d4fe1fa901df52fe441794e8313ea14d5b68"
+		},
+		{
+			"ImportPath": "github.com/cloudfoundry/storeadapter",
+			"Rev": "1ffda724a090eeae06f95cd637f2737df4b66557"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/etcdserver/etcdhttp/httptypes",
+			"Comment": "v2.0.3-2-g0fcbadc",
+			"Rev": "0fcbadc10bc513911f4d86567646d43e322a8af5"
+		},
+		{
+			"ImportPath": "github.com/coreos/etcd/pkg/types",
+			"Comment": "v2.0.3-2-g0fcbadc",
+			"Rev": "0fcbadc10bc513911f4d86567646d43e322a8af5"
+		},
+		{
+			"ImportPath": "github.com/coreos/go-etcd/etcd",
+			"Comment": "v0.4.6-6-g4734e7a",
+			"Rev": "4734e7aca379f0d7fcdf04fbb2101696a4b45ce8"
+		},
+		{
+			"ImportPath": "github.com/nu7hatch/gouuid",
+			"Rev": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3"
+		}
+	]
+}
